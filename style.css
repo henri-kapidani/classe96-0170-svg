@@ -1,0 +1,28 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+img {
+	/* opacity: 20%; */
+}
+
+.img-block {
+	display: block;
+	width: 100%;
+}
+
+svg {
+	fill: red;
+}
+
+.wave {
+	height: 250px;
+	background-image: url("wave.svg");
+}
+
+.bkg {
+	height: 250px;
+	background-color: gray;
+}
